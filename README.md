@@ -1,4 +1,4 @@
-# AIML_BATCH-10
+# AIML_BATCH-10_2203A51391
 1.[Lab-01](https://github.com/Himabindu03/AIML_BATCH-10/blob/main/Lab01_AIML_ipynb.ipynb)
 2.[Lab-02](https://github.com/Himabindu03/AIML_BATCH-10/blob/main/LAB_02.ipynb)
 3.[Lab-03](https://github.com/Himabindu03/AIML_BATCH-10/blob/main/LAB_03_AIML.ipynb)
