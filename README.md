@@ -8,3 +8,4 @@
 7.[Lab-07](https://github.com/Himabindu03/AIML_BATCH-10/blob/main/Lab07.ipynb)
 8.[Lab-08](https://github.com/Himabindu03/AIML_BATCH-10/blob/main/Lab_08.ipynb)
 9.[LAB-09](https://github.com/Himabindu03/AIML_BATCH-10/blob/main/LAB_09.ipynb)
+10.[LAB-10](https://github.com/Himabindu03/AIML_BATCH-10/blob/main/LAB_10.ipynb)
